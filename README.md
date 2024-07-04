@@ -1,2 +1,2 @@
 # mi-primer-repo
-## Este esmi primer repo😆
+## Este es mi primer repo😆
